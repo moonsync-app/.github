@@ -1,0 +1,5 @@
+## Hello World 👋
+
+Moonsync is a marriage between a task manager and a period tracking app, setting it apart from any products existing in the market today. 
+Why these two? because women run on a 28-day hormonal cycle where at a neurological level, they benefit from increased performance in specific skills like communication, analytics, and social or focused work at different phases of this cycle. And although 90% of our 100+ business leaders we interviewed recognized a shift in their skills through the month, today they have no tools to leverage that advantage in their day to day at work. 
+Moonsync’s focus on the nature of each task, as opposed to just piling everything together means that women will be able to optimize their energy, increase job satisfaction and make it to those top level positions. Long term, we aim to become a hub for women to lean into their best natural state by automating also optimizing nutrition and workouts through our integrations with services like classpass and meal delivery services. 
